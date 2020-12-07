@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Net.Http.Headers;
-using System.Text;
-using AdventOfCode2020.Days.Two;
 
 namespace AdventOfCode2020.Days.Seven
 {
